@@ -19,4 +19,5 @@ You need to edit and add the command you want in the commands.txt file. The scri
 To run the script:
  - Simply use the command "python <script.py> devices.json commands.txt"
  - If you not include the arguments, it will fail.
+ - Needs to run it again.
 
