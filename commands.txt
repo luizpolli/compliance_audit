@@ -1,0 +1,3 @@
+show running | inc logging trap notifications
+show running | inc snmp-server enable traps syslogs
+show running | inc snmp-server enable traps alarms major
