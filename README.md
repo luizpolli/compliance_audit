@@ -2,7 +2,7 @@
 
 The idea of this script is:
 
-  - Go to device validate if the commands is are configured in the device.
+  - Go to device validate if the commands are configured in the device.
   - If configured, it will creates a file telling if command exist or not.
   - The script will not run the command if not exists.
 
