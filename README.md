@@ -10,6 +10,7 @@ Telling a little about the script
 
 Pre-requirements
  - Edit the commands.txt file already included in the git repository.
+ - Prefer use the command with "| include" to do an exact match or which gan give us only one line of answer 
  - Access and reach to Cisco EPNM software.
  - EPNM REST API priviledges.
 
