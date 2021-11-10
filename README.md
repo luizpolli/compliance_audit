@@ -10,7 +10,7 @@ Telling a little about the script
 
 Pre-requirements
  - Edit the commands.txt file already included in the git repository.
- - Access to reach Cisco EPNM software.
+ - Access and reach to Cisco EPNM software.
  - EPNM REST API priviledges.
 
 The script will get all devices from Cisco EPNM manager using APIs and generates a JSON file called devices.json with all devices in the inventory of EPNM.
